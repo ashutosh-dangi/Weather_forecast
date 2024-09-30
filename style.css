@@ -1,0 +1,8 @@
+/* Custom styling */
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+#weather-info, #extended-forecast {
+    display: none; /* Hide these sections initially */
+}
